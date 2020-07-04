@@ -2,35 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec241600-efc9-4c58-9856-8cc0d0654b09" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/automationProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nearsoft/automation/pages/actions/DressPageActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nearsoft/automation/pages/actions/HomePageActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nearsoft/automation/pages/actions/OrderPageActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nearsoft/automation/pages/actions/ProductPageActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nearsoft/automation/pages/locators/DressPageLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nearsoft/automation/pages/locators/HomePageLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nearsoft/automation/pages/locators/OrderPageLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nearsoft/automation/pages/locators/ProductPageLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nearsoft/automation/pages/utils/LandingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nearsoft/automation/tests/LandingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/automationProject.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/actions/DressPageActions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/actions/HomePageActions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/actions/OrderPageActions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/actions/ProductPageActions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/locators/DressPageLocators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/locators/HomePageLocators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/locators/OrderPageLocators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/locators/ProductPageLocators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/utils/LandingPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/tests/LandingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nearsoft/automation/tests/LandingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nearsoft/automation/tests/LandingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/automationProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/actions/DressPageActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/actions/DressPageActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/actions/HomePageActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/actions/HomePageActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/actions/OrderPageActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/actions/OrderPageActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/actions/ProductPageActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/actions/ProductPageActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/locators/DressPageLocators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/locators/DressPageLocators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/locators/HomePageLocators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/locators/HomePageLocators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/locators/OrderPageLocators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/locators/OrderPageLocators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/locators/ProductPageLocators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/locators/ProductPageLocators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/utils/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/pages/utils/LandingPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/tests/LandingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nearsoft/automation/tests/LandingTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +54,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.LandingTest">
+  <component name="RunManager" selected="TestNG.com.nearsoft.automation.tests">
     <configuration name="LandingTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="automationProject" />
       <extension name="coverage">
@@ -81,42 +66,6 @@
       <option name="PACKAGE_NAME" value="com.nearsoft.automation.tests" />
       <option name="MAIN_CLASS_NAME" value="com.nearsoft.automation.tests.LandingTest" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LandingTest.landing_EmptyShoppingCart" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="automationProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nearsoft.automation.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.nearsoft.automation.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.nearsoft.automation.tests.LandingTest" />
-      <option name="METHOD_NAME" value="landing_EmptyShoppingCart" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LandingTest.landing_UserNavigation" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="automationProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.nearsoft.automation.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.nearsoft.automation.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.nearsoft.automation.tests.LandingTest" />
-      <option name="METHOD_NAME" value="landing_UserNavigation" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -159,13 +108,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PreviewCartTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nearsoft.automation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nearsoft.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.nearsoft.automation.tests.PreviewCartTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.nearsoft.automation.tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nearsoft.automation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nearsoft.automation.tests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.com.nearsoft.automation.tests" />
+        <item itemvalue="TestNG.PreviewCartTest" />
         <item itemvalue="TestNG.LandingTest" />
         <item itemvalue="TestNG.LandingTest.signInCurrentStateValidation" />
         <item itemvalue="TestNG.LandingTest.removingShoppingCartItems" />
-        <item itemvalue="TestNG.LandingTest.landing_EmptyShoppingCart" />
-        <item itemvalue="TestNG.LandingTest.landing_UserNavigation" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +162,28 @@
       <option name="presentableId" value="Default" />
       <updated>1593137766815</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1593526454384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593526454384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
@@ -198,17 +201,19 @@
     <state x="3031" y="233" key="#xdebugger.evaluate/1792.63.1920.1057/0.23.1792.1022@1792.63.1920.1057" timestamp="1593452559413" />
     <state x="2656" y="199" width="917" height="649" key="#xdebugger.evaluate/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593460396166" />
     <state x="2656" y="199" key="#xdebugger.evaluate/1792.63.1920.1057/0.23.1792.1026@1792.63.1920.1057" timestamp="1593458140006" />
-    <state x="2376" y="155" key="CommitChangelistDialog2" timestamp="1593526439247">
+    <state x="2376" y="155" key="CommitChangelistDialog2" timestamp="1593526470533">
       <screen x="1792" y="63" width="1920" height="1057" />
     </state>
-    <state x="2376" y="155" key="CommitChangelistDialog2/1792.63.1920.1057/0.23.1792.1019@1792.63.1920.1057" timestamp="1593526439247" />
-    <state width="1750" height="264" key="GridCell.Tab.0.bottom" timestamp="1593526439264">
-      <screen x="1792" y="63" width="1920" height="1057" />
+    <state x="2376" y="155" key="CommitChangelistDialog2/1792.63.1920.1057/0.23.1792.1019@1792.63.1920.1057" timestamp="1593526470533" />
+    <state width="875" height="276" key="GridCell.Tab.0.bottom" timestamp="1593864090629">
+      <screen x="0" y="23" width="1792" height="1020" />
     </state>
+    <state width="875" height="276" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1019@0.23.1792.1019" timestamp="1593864060107" />
     <state width="1750" height="264" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1019@1792.63.1920.1057" timestamp="1593526439264" />
-    <state width="1750" height="264" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593524437300" />
+    <state width="875" height="276" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1593864090629" />
+    <state width="1750" height="264" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593526588571" />
     <state width="1750" height="264" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1022@1792.63.1920.1057" timestamp="1593524540528" />
-    <state width="1750" height="264" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593465515982" />
+    <state width="875" height="264" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593544310669" />
     <state width="1750" height="264" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1026@1792.63.1920.1057" timestamp="1593457774181" />
     <state width="1750" height="264" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1028@1792.63.1920.1057" timestamp="1593457851263" />
     <state width="1750" height="326" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1030@1792.63.1920.1057" timestamp="1593457930279" />
@@ -220,13 +225,15 @@
     <state width="1750" height="264" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1036@1792.63.1920.1057" timestamp="1593445429970" />
     <state width="1750" height="264" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1037@1792.63.1920.1057" timestamp="1593439523403" />
     <state width="1750" height="264" key="GridCell.Tab.0.bottom/1792.63.1920.1057/0.23.1792.1041@1792.63.1920.1057" timestamp="1593439568530" />
-    <state width="1750" height="264" key="GridCell.Tab.0.center" timestamp="1593526439263">
-      <screen x="1792" y="63" width="1920" height="1057" />
+    <state width="875" height="276" key="GridCell.Tab.0.center" timestamp="1593864090628">
+      <screen x="0" y="23" width="1792" height="1020" />
     </state>
+    <state width="875" height="276" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1019@0.23.1792.1019" timestamp="1593864060106" />
     <state width="1750" height="264" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1019@1792.63.1920.1057" timestamp="1593526439263" />
-    <state width="1750" height="264" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593524437299" />
+    <state width="875" height="276" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1593864090628" />
+    <state width="1750" height="264" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593526588570" />
     <state width="1750" height="264" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1022@1792.63.1920.1057" timestamp="1593524540527" />
-    <state width="1750" height="264" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593465515982" />
+    <state width="875" height="264" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593544310669" />
     <state width="1750" height="264" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1026@1792.63.1920.1057" timestamp="1593457774180" />
     <state width="1750" height="264" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1028@1792.63.1920.1057" timestamp="1593457851262" />
     <state width="1750" height="326" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1030@1792.63.1920.1057" timestamp="1593457930278" />
@@ -238,13 +245,15 @@
     <state width="1750" height="264" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1036@1792.63.1920.1057" timestamp="1593445429969" />
     <state width="1750" height="264" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1037@1792.63.1920.1057" timestamp="1593439523402" />
     <state width="1750" height="264" key="GridCell.Tab.0.center/1792.63.1920.1057/0.23.1792.1041@1792.63.1920.1057" timestamp="1593439568529" />
-    <state width="1750" height="264" key="GridCell.Tab.0.left" timestamp="1593526439263">
-      <screen x="1792" y="63" width="1920" height="1057" />
+    <state width="875" height="276" key="GridCell.Tab.0.left" timestamp="1593864090628">
+      <screen x="0" y="23" width="1792" height="1020" />
     </state>
+    <state width="875" height="276" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1019@0.23.1792.1019" timestamp="1593864060105" />
     <state width="1750" height="264" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1019@1792.63.1920.1057" timestamp="1593526439263" />
-    <state width="1750" height="264" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593524437299" />
+    <state width="875" height="276" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1593864090628" />
+    <state width="1750" height="264" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593526588570" />
     <state width="1750" height="264" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1022@1792.63.1920.1057" timestamp="1593524540527" />
-    <state width="1750" height="264" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593465515982" />
+    <state width="875" height="264" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593544310669" />
     <state width="1750" height="264" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1026@1792.63.1920.1057" timestamp="1593457774179" />
     <state width="1750" height="264" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1028@1792.63.1920.1057" timestamp="1593457851261" />
     <state width="1750" height="326" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1030@1792.63.1920.1057" timestamp="1593457930277" />
@@ -256,13 +265,15 @@
     <state width="1750" height="264" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1036@1792.63.1920.1057" timestamp="1593445429969" />
     <state width="1750" height="264" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1037@1792.63.1920.1057" timestamp="1593439523402" />
     <state width="1750" height="264" key="GridCell.Tab.0.left/1792.63.1920.1057/0.23.1792.1041@1792.63.1920.1057" timestamp="1593439568528" />
-    <state width="1750" height="264" key="GridCell.Tab.0.right" timestamp="1593526439264">
-      <screen x="1792" y="63" width="1920" height="1057" />
+    <state width="875" height="276" key="GridCell.Tab.0.right" timestamp="1593864090629">
+      <screen x="0" y="23" width="1792" height="1020" />
     </state>
+    <state width="875" height="276" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1019@0.23.1792.1019" timestamp="1593864060106" />
     <state width="1750" height="264" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1019@1792.63.1920.1057" timestamp="1593526439264" />
-    <state width="1750" height="264" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593524437300" />
+    <state width="875" height="276" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1020@0.23.1792.1020" timestamp="1593864090629" />
+    <state width="1750" height="264" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593526588571" />
     <state width="1750" height="264" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1022@1792.63.1920.1057" timestamp="1593524540528" />
-    <state width="1750" height="264" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593465515982" />
+    <state width="875" height="264" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593544310669" />
     <state width="1750" height="264" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1026@1792.63.1920.1057" timestamp="1593457774180" />
     <state width="1750" height="264" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1028@1792.63.1920.1057" timestamp="1593457851262" />
     <state width="1750" height="326" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1030@1792.63.1920.1057" timestamp="1593457930278" />
@@ -274,49 +285,49 @@
     <state width="1750" height="264" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1036@1792.63.1920.1057" timestamp="1593445429970" />
     <state width="1750" height="264" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1037@1792.63.1920.1057" timestamp="1593439523403" />
     <state width="1750" height="264" key="GridCell.Tab.0.right/1792.63.1920.1057/0.23.1792.1041@1792.63.1920.1057" timestamp="1593439568529" />
-    <state width="1750" height="326" key="GridCell.Tab.1.bottom" timestamp="1593462226425">
+    <state width="1750" height="326" key="GridCell.Tab.1.bottom" timestamp="1593544310662">
       <screen x="1792" y="63" width="1920" height="1057" />
     </state>
     <state width="1750" height="326" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1019@1792.63.1920.1057" timestamp="1593462132210" />
     <state width="1750" height="326" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593462226425" />
     <state width="1750" height="326" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1022@1792.63.1920.1057" timestamp="1593460502264" />
-    <state width="1750" height="326" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593460334251" />
+    <state width="1750" height="326" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593544310662" />
     <state width="1750" height="326" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1026@1792.63.1920.1057" timestamp="1593457938601" />
     <state width="1750" height="326" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1028@1792.63.1920.1057" timestamp="1593442353190" />
     <state width="1750" height="326" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1030@1792.63.1920.1057" timestamp="1593457930135" />
     <state width="1750" height="326" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1031@1792.63.1920.1057" timestamp="1593444410134" />
     <state width="1750" height="326" key="GridCell.Tab.1.bottom/1792.63.1920.1057/0.23.1792.1037@1792.63.1920.1057" timestamp="1593403399146" />
-    <state width="1750" height="326" key="GridCell.Tab.1.center" timestamp="1593462226424">
+    <state width="1750" height="326" key="GridCell.Tab.1.center" timestamp="1593544310662">
       <screen x="1792" y="63" width="1920" height="1057" />
     </state>
     <state width="1750" height="326" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1019@1792.63.1920.1057" timestamp="1593462132209" />
     <state width="1750" height="326" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593462226424" />
     <state width="1750" height="326" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1022@1792.63.1920.1057" timestamp="1593460502264" />
-    <state width="1750" height="326" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593460334250" />
+    <state width="1750" height="326" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593544310662" />
     <state width="1750" height="326" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1026@1792.63.1920.1057" timestamp="1593457938601" />
     <state width="1750" height="326" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1028@1792.63.1920.1057" timestamp="1593442353189" />
     <state width="1750" height="326" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1030@1792.63.1920.1057" timestamp="1593457930135" />
     <state width="1750" height="326" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1031@1792.63.1920.1057" timestamp="1593444410133" />
     <state width="1750" height="326" key="GridCell.Tab.1.center/1792.63.1920.1057/0.23.1792.1037@1792.63.1920.1057" timestamp="1593403399146" />
-    <state width="1750" height="326" key="GridCell.Tab.1.left" timestamp="1593462226424">
+    <state width="1750" height="326" key="GridCell.Tab.1.left" timestamp="1593544310661">
       <screen x="1792" y="63" width="1920" height="1057" />
     </state>
     <state width="1750" height="326" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1019@1792.63.1920.1057" timestamp="1593462132209" />
     <state width="1750" height="326" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593462226424" />
     <state width="1750" height="326" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1022@1792.63.1920.1057" timestamp="1593460502263" />
-    <state width="1750" height="326" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593460334250" />
+    <state width="1750" height="326" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593544310661" />
     <state width="1750" height="326" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1026@1792.63.1920.1057" timestamp="1593457938601" />
     <state width="1750" height="326" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1028@1792.63.1920.1057" timestamp="1593442353189" />
     <state width="1750" height="326" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1030@1792.63.1920.1057" timestamp="1593457930134" />
     <state width="1750" height="326" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1031@1792.63.1920.1057" timestamp="1593444410133" />
     <state width="1750" height="326" key="GridCell.Tab.1.left/1792.63.1920.1057/0.23.1792.1037@1792.63.1920.1057" timestamp="1593403399146" />
-    <state width="1750" height="326" key="GridCell.Tab.1.right" timestamp="1593462226425">
+    <state width="1750" height="326" key="GridCell.Tab.1.right" timestamp="1593544310662">
       <screen x="1792" y="63" width="1920" height="1057" />
     </state>
     <state width="1750" height="326" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1019@1792.63.1920.1057" timestamp="1593462132209" />
     <state width="1750" height="326" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593462226425" />
     <state width="1750" height="326" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1022@1792.63.1920.1057" timestamp="1593460502264" />
-    <state width="1750" height="326" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593460334251" />
+    <state width="1750" height="326" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1024@1792.63.1920.1057" timestamp="1593544310662" />
     <state width="1750" height="326" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1026@1792.63.1920.1057" timestamp="1593457938601" />
     <state width="1750" height="326" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1028@1792.63.1920.1057" timestamp="1593442353189" />
     <state width="1750" height="326" key="GridCell.Tab.1.right/1792.63.1920.1057/0.23.1792.1030@1792.63.1920.1057" timestamp="1593457930135" />
@@ -332,15 +343,21 @@
     </state>
     <state x="2252" y="234" key="SettingsEditor/1792.63.1920.1057/0.23.1792.1022@1792.63.1920.1057" timestamp="1593140846705" />
     <state x="2252" y="234" key="SettingsEditor/1792.63.1920.1057/0.23.1792.1030@1792.63.1920.1057" timestamp="1593139736134" />
+    <state x="2331" y="293" key="Vcs.Push.Dialog.v2" timestamp="1593526580644">
+      <screen x="1792" y="63" width="1920" height="1057" />
+    </state>
+    <state x="2331" y="293" key="Vcs.Push.Dialog.v2/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593526580644" />
     <state x="1935" y="163" width="1592" height="780" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593526409800">
       <screen x="1792" y="63" width="1920" height="1057" />
     </state>
     <state x="1935" y="163" width="1592" height="780" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1792.63.1920.1057/0.23.1792.1019@1792.63.1920.1057" timestamp="1593526409800" />
-    <state x="597" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1593455415204">
-      <screen x="0" y="23" width="1792" height="1019" />
+    <state x="2432" y="411" key="com.intellij.ide.util.TipDialog" timestamp="1593862070928">
+      <screen x="1792" y="63" width="1920" height="1057" />
     </state>
     <state x="597" y="358" key="com.intellij.ide.util.TipDialog/1792.63.1920.1057/0.23.1792.1019@0.23.1792.1019" timestamp="1593455415204" />
     <state x="2432" y="410" key="com.intellij.ide.util.TipDialog/1792.63.1920.1057/0.23.1792.1019@1792.63.1920.1057" timestamp="1593446081448" />
+    <state x="2432" y="411" key="com.intellij.ide.util.TipDialog/1792.63.1920.1057/0.23.1792.1020@1792.63.1920.1057" timestamp="1593862070928" />
+    <state x="597" y="384" key="com.intellij.ide.util.TipDialog/1792.63.1920.979/0.23.1792.1097@0.23.1792.1097" timestamp="1593660841660" />
     <state x="2404" y="269" key="run.anything.popup" timestamp="1593453000306">
       <screen x="1792" y="63" width="1920" height="1057" />
     </state>
